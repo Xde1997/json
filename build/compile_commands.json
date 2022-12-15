@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/xdp/work/study/cpp/json/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/json.dir/main.cpp.o -c /home/xdp/work/study/cpp/json/main.cpp",
-  "file": "/home/xdp/work/study/cpp/json/main.cpp"
-}
-]
