@@ -42,6 +42,24 @@
         "system_error": "cpp",
         "limits": "cpp",
         "numbers": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "xmemory": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "xfacet": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "optional": "cpp"
     }
 }
